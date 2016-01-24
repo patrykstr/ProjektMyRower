@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Nerexis\\AndroidStudioProjects\\MyRower\\mobile\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\myrower_logo.png",
+        "source": "C:\\Users\\Nerexis\\AndroidStudioProjects\\MyRower\\mobile\\src\\main\\res\\mipmap-hdpi\\myrower_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Nerexis\\AndroidStudioProjects\\MyRower\\mobile\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Nerexis\\AndroidStudioProjects\\MyRower\\mobile\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
